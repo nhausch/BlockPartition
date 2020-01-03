@@ -1,1 +1,1 @@
-# BlockPartition
+# Block Partition Algorithm
