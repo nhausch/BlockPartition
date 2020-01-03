@@ -1,1 +1,2 @@
 # Block Partition Algorithm
+## This is an original algorithm that can efficiently find nearest neighbors for multidimensional data. The main idea is to partition the space into a set of blocks. Then when we search for neighbors, we only need to search nearby blocks. It works best in scenarios with a large amount of lower dimensional data. This is a personal research project that arose from my studies as an undergrad. I hope to eventually publish my findings more formally. 
